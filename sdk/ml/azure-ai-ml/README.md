@@ -10,7 +10,7 @@ We are excited to introduce the GA of Azure Machine Learning Python SDK v2. The 
 | [Samples][ml_samples]
 
 
-This package has been tested with Python 3.8, 3.9, 3.10, 3.11, 3.12, 3.13 and 3.14.
+This package has been tested with Python 3.9, 3.10, 3.11, 3.12, 3.13 and 3.14.
 
 For a more complete set of Azure libraries, see https://aka.ms/azsdk/python/all
 
@@ -18,7 +18,7 @@ For a more complete set of Azure libraries, see https://aka.ms/azsdk/python/all
 
 ### Prerequisites
 
-- Python 3.7 or later is required to use this package.
+- Python 3.9 or later is required to use this package.
 - You must have an [Azure subscription][azure_subscription].
 - An [Azure Machine Learning Workspace][workspace].
 
